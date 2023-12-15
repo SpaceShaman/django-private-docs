@@ -1,0 +1,5 @@
+site_name: Private Docs
+use_directory_urls: false # This is important to correctly display the documentation via Django
+site_dir: .docs # This is a directory where the documentation will be generated
+theme:
+    name: material # If you want to use the default MkDocs theme, remove this line
